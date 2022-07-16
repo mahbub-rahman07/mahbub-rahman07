@@ -17,7 +17,7 @@
       <h6>⭐️&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=swift">IOS</a> ( Intermidiate )</h6>
       </td>
     <td valign="top">
-      <h3>Language : </h3>
+      <h3>Language: </h3>
       <h6>📗&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=swift">Java</a> ( Intermidiate )</h6>
       <h6>📗&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=swift">Kotlin</a> ( Intermidiate )</h6>
       <h6>📗&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=swift">Swift</a> ( Intermidiate )</h6>
@@ -25,8 +25,8 @@
       <td valign="top">
       <h3>Expertise: </h3>
        <h6>📔&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=mvvm">MVVM/MVP</a> ( Advance )</h6>
-      <h6>📔&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=media">Straming/Real-Time Communication/ Media Play</a> ( Advance )</h6>
-        <h6>📔&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=database">Database & Cache</a> ( Intermidiate )</h6>
+      <h6>📔&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=media">Straming/Real-Time Communication/ Media Play</a> ( Intermidiate )</h6>
+        <h6>📔&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=database">Database & Cache</a> ( Advance )</h6>
          <h6>📔&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=di">DI</a> ( Intermidiate )</h6>
          <h6>📔&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=rest">REST API</a> ( Advance )</h6>
       </td>
