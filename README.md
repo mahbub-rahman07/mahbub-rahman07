@@ -8,9 +8,9 @@
   <tr>
     <td valign="top">
       <h3>My stack: </h3>
-      <h6>📔&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=python">Python</a> ( Middle )</h6>
-      <h6>📗&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=c%23">C#</a> ( Junior )</h6>
-      <h6>📘&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=go">Golang</a> ( Intern )</h6>
+      <h6>📘&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=swift">Swift</a> ( Intermidiate )</h6>
+       <h6>📘&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=mvvm">MVVM</a> ( Advance )</h6>
+      <h6>📘&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=media">Straming/Real-Time Communication/ Media Play</a> ( Advance )</h6>
       </td>
     
   </tr>
