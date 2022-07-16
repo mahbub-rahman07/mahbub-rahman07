@@ -2,7 +2,7 @@
 <h1>Hello. I'm Mahbub & I ❤️ code.</h1>
 <h4>Currently i work at private orders but i always open for cooperation | Write to me: <a href="mailto:mahbubmridha07@gmail.com">Email <img 
 />
-<table width="100%"> 
+<table width="50%"> 
   <tr>
   <td width="50%">
 
