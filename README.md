@@ -2,15 +2,8 @@
 <h1>Hello. I'm Mahbub & I ❤️ code.</h1>
 <h4>Currently i work at private orders but i always open for cooperation | Write to me: <a href="mailto:mahbubmridha07@gmail.com">Email <img 
 />
-<table width="50%"> 
-  <tr>
-  <td width="50%">
-
 &nbsp;<p align="center">
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-novac)
-  </p>
-  </td>
-</table>
 
 
 <h2>📝 Statistics: </h2>
