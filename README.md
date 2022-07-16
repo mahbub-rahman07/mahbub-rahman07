@@ -1,5 +1,5 @@
 
-<h1>Hello. I'm Mahbub & I ❤️ code.</h1>
+<h1>Hello. I'm Mahbub & I ❤️ problem solving.</h1>
 <h4>Currently i work at private orders but i always open for cooperation | Write to me: <a href="mailto:mahbubmridha07@gmail.com">Email <img 
 />
 
