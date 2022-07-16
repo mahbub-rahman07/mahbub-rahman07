@@ -1,9 +1,7 @@
 
 <h1>Hello. I'm Mahbub & I ❤️ problem solving.</h1>
 <h4>Write to me: <a href="mailto:mahbubmridha07@gmail.com">Email <img 
-/>
-
-&nbsp;<p align="center">
+/><p align="center">
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/md-mahbubur-rahman07) </p>
 
 
