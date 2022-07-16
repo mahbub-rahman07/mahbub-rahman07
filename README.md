@@ -8,6 +8,11 @@
   <tr>
     <td valign="top">
       <h3>My stack: </h3>
+      <h6>⭐️&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=swift">Android</a> ( Intermidiate )</h6>
+      <h6>⭐️&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=swift">IOS</a> ( Intermidiate )</h6>
+      </td>
+    <td valign="top">
+      <h3>My Expertise: </h3>
       <h6>📗&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=swift">Java</a> ( Intermidiate )</h6>
       <h6>📗&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=swift">Kotlin</a> ( Intermidiate )</h6>
       <h6>📗&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=swift">Swift</a> ( Intermidiate )</h6>
