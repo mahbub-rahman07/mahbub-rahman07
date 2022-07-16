@@ -11,19 +11,19 @@
 <table>
   <tr>
     <td valign="top">
-      <h3>My stack: </h3>
+      <h3>Stack: </h3>
       <h6>⭐️&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=programming">Provlem Solving</a> ( Intermidiate )</h6>
       <h6>⭐️&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=swift">Android</a> ( Intermidiate )</h6>
       <h6>⭐️&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=swift">IOS</a> ( Intermidiate )</h6>
       </td>
     <td valign="top">
-      <h3>Languages : </h3>
+      <h3>Language : </h3>
       <h6>📗&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=swift">Java</a> ( Intermidiate )</h6>
       <h6>📗&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=swift">Kotlin</a> ( Intermidiate )</h6>
       <h6>📗&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=swift">Swift</a> ( Intermidiate )</h6>
       </td>
       <td valign="top">
-      <h3>My Expertise: </h3>
+      <h3>Expertise: </h3>
        <h6>📔&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=mvvm">MVVM/MVP</a> ( Advance )</h6>
       <h6>📔&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=media">Straming/Real-Time Communication/ Media Play</a> ( Advance )</h6>
         <h6>📔&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=database">Database & Cache</a> ( Intermidiate )</h6>
