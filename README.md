@@ -16,7 +16,7 @@
     <td valign="top">
       <h3>Stack: </h3>
       <h6>⭐️&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=programming">Provlem Solving</a> ( Intermidiate )</h6>
-      <h6>⭐️&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=swift">Android</a> ( Intermidiate )</h6>
+      <h6>⭐️&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=swift">Android</a> ( Advance )</h6>
       <h6>⭐️&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=swift">IOS</a> ( Intermidiate )</h6>
       </td>
     <td valign="top">
